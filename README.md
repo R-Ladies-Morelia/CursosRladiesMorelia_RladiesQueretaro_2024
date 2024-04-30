@@ -41,7 +41,7 @@ Se emplearon los cursos impartidos por The Carpentries, empleando el tema [R par
 ### Hackaton 
 
 - Fecha: viernes 31 de mayo 
-- Horario: 15 - 17 h (hora Ciudad de Mexico)
+- Horario: 13 - 17 h (hora Ciudad de Mexico)
 - Responsable: R-Ladies Querétaro y R-Ladies Morelia
 - Temas:
   - Funciones y programación defensiva - Driselda Sanchez Aguirre
@@ -49,7 +49,7 @@ Se emplearon los cursos impartidos por The Carpentries, empleando el tema [R par
   - [Manipulación de data frames con dplyr](https://swcarpentry.github.io/r-novice-gapminder-es/13-dplyr.html) y [Guardando datos](https://swcarpentry.github.io/r-novice-gapminder-es/11-writing-data.html) - Mayra Fragoso
 
 - Fecha: sábado 1 de junio 2024
-- Horario: 15 - 17 h (hora Ciudad de Mexico)
+- Horario: 9 - 13 h (hora Ciudad de Mexico)
 - Temas:
   - Buenas prácticas en bioinformática - Evelia Coss
   - Creando informes con Rmarkdown - Anahi Aguilera
