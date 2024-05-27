@@ -38,7 +38,9 @@ Se emplearon los cursos impartidos por The Carpentries, empleando el tema [R par
   - 7) [Control de flujo](https://swcarpentry.github.io/r-novice-gapminder-es/07-control-flow.html)
   - 8) [Creando gráficas con calidad para publicación con ggplot2](https://swcarpentry.github.io/r-novice-gapminder-es/08-plot-ggplot2.html)
 
-![Flyer](Hackaton2024.jpg)
+<p align="center">
+<img src='Hackaton2024.jpg' width='400'>
+</p>
 
 ### Hackaton 2024
 
