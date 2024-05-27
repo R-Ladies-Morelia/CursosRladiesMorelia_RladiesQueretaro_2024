@@ -22,6 +22,10 @@ Se emplearon los cursos impartidos por The Carpentries, empleando el tema [R par
   - 3) [Buscando ayuda](https://swcarpentry.github.io/r-novice-gapminder-es/03-seeking-help.html)
   - 4) [Estructuras de datos](https://swcarpentry.github.io/r-novice-gapminder-es/04-data-structures-part1.html)
 
+<p align="center">
+<img src='Rladies_Karen.jpg' width='400'>
+</p>
+
 ### Reunión 2 (Cancelada)
 
 - Fecha: jueves 21 de marzo 2024
