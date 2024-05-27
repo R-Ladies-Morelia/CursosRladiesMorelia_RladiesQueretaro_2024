@@ -7,7 +7,7 @@ Se emplearon los cursos impartidos por The Carpentries, empleando el tema [R par
 ## Contenido
 
 <p align="center">
-<img src='Rladies_Quetzally.png' width='400'>
+<img src='Rladies_Quetzally.jpg' width='400'>
 </p>
 
 ### Reunión 1
