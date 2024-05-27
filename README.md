@@ -38,7 +38,9 @@ Se emplearon los cursos impartidos por The Carpentries, empleando el tema [R par
   - 7) [Control de flujo](https://swcarpentry.github.io/r-novice-gapminder-es/07-control-flow.html)
   - 8) [Creando gráficas con calidad para publicación con ggplot2](https://swcarpentry.github.io/r-novice-gapminder-es/08-plot-ggplot2.html)
 
-### Hackaton 
+![Flyer](Hackaton2024.jpg)
+
+### Hackaton 2024
 
 - Fecha: viernes 31 de mayo 
 - Horario: 13 - 17 h (hora Ciudad de Mexico)
