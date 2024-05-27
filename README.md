@@ -6,6 +6,10 @@ Se emplearon los cursos impartidos por The Carpentries, empleando el tema [R par
 
 ## Contenido
 
+<p align="center">
+<img src='Rladies_Quetzally.png' width='400'>
+</p>
+
 ### Reunión 1
 
 - Fecha: jueves 29 de febrero 2024
@@ -27,6 +31,11 @@ Se emplearon los cursos impartidos por The Carpentries, empleando el tema [R par
 - Temas:
   - 5) [Explorando data frames](https://swcarpentry.github.io/r-novice-gapminder-es/05-data-structures-part2.html)
   - 6) [Haciendo subconjuntos de datos](https://swcarpentry.github.io/r-novice-gapminder-es/06-data-subsetting.html)
+
+
+<p align="center">
+<img src='Rladies_Goretty.jpg' width='400'>
+</p>
 
 ### Reunión 3
 
