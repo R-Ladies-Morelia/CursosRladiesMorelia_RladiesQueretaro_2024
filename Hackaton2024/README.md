@@ -12,7 +12,7 @@ Aqui agreguen sus enlaces, por fis
 
 - Introducción al paquete data.table - Sofia Zorrilla y Maria Jose Palma Martinez
 
-- Manipulación de data frames con dplyr y Guardando datos - Mayra Fragoso
+- Manipulación de data frames con dplyr y Guardando datos - Mayra Fragoso https://github.com/mayfra23/manejo_datos_dplyr
 
 ## Dia 2: Sábado 1 de junio 2024
 
