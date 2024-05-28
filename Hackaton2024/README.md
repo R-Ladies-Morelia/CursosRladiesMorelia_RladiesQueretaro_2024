@@ -2,23 +2,28 @@
 
 Aqui agreguen sus enlaces, por fis
 
+- Responsables: R-Ladies Querétaro y R-Ladies Morelia
 
-- Fecha: viernes 31 de mayo
+## Dia 1: Viernes 31 de mayo
 
-- Responsable: R-Ladies Querétaro y R-Ladies Morelia
+### Contenido
 
-Temas:
+- Funciones y programación defensiva - Driselda Sanchez Aguirre
 
-Funciones y programación defensiva - Driselda Sanchez Aguirre
-Introducción al paquete data.table - Sofia Zorrilla y Maria Jose Palma Martinez
-Manipulación de data frames con dplyr y Guardando datos - Mayra Fragoso
-Fecha: sábado 1 de junio 2024
+- Introducción al paquete data.table - Sofia Zorrilla y Maria Jose Palma Martinez
 
-Horario: 9 - 13 h (hora Ciudad de Mexico)
+- Manipulación de data frames con dplyr y Guardando datos - Mayra Fragoso
 
-Temas:
+## Dia 2: Sábado 1 de junio 2024
 
-Buenas prácticas en bioinformática - Evelia Coss
-Creando informes con Rmarkdown - Anahi Aguilera
-Crear tu CV en R - Aline Pingarroni
-Crea tu pagina web en R - Haydee Peruyero
+- Horario: 9 - 13 h (hora Ciudad de Mexico)
+
+### Contenido
+
+- Buenas prácticas en bioinformática - Evelia Coss
+
+-  Creando informes con Rmarkdown - Anahi Aguilera
+
+-  Crear tu CV en R - Aline Pingarroni
+
+-  Crea tu pagina web en R - Haydee Peruyero
