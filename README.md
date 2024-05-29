@@ -71,4 +71,4 @@ Se emplearon los cursos impartidos por The Carpentries, empleando el tema [R par
   - Buenas prácticas en bioinformática - Evelia Coss
   - Creando informes con Rmarkdown - Anahi Aguilera
   - Crear tu CV en R - Aline Pingarroni
-  - Crea tu pagina web en R - Haydee Peruyero
+  - [Crea tu pagina web en R](https://r-ladies-morelia.github.io/project/webpage/) - [Haydee Peruyero](https://haydeeperuyero.github.io/)
