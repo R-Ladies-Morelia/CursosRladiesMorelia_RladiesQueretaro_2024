@@ -23,7 +23,7 @@ install.packages("docstring")
 install.packages("dplyr")
 install.packages("usethis")
 install.packages("ggplot2")
-install.packages("Rmarkdown")
+install.packages("rmarkdown")
 install.packages("shiny")
 ```
 
