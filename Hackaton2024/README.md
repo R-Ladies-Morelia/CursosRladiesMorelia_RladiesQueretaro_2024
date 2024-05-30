@@ -1,6 +1,7 @@
 # Hackaton 2024 🌟
 
 - Responsables: R-Ladies Querétaro y R-Ladies Morelia
+- [Agenda del curso](https://docs.google.com/document/d/1fLf2mXHZj7p8I4i7MLAeeNkD4uW7VHqVc1Bw1Xuzrwo/edit?usp=sharing)
 
 ## Paquetes necesarios
 
