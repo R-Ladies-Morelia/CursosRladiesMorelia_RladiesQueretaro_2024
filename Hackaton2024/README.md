@@ -11,6 +11,8 @@
 - [dplyr](https://dplyr.tidyverse.org/)
 - [usethis](https://usethis.r-lib.org/)
 - [ggplot2](https://ggplot2.tidyverse.org/)
+- [RMarkdown](https://github.com/rstudio/rmarkdown)
+- [shiny](https://shiny.posit.co/)
 
 ### Instalación de paquetes
 
@@ -21,6 +23,8 @@ install.packages("docstring")
 install.packages("dplyr")
 install.packages("usethis")
 install.packages("ggplot2")
+install.packages("Rmarkdown")
+install.packages("shiny")
 ```
 
 ## Dia 1: Viernes 31 de mayo 💚 
@@ -43,7 +47,7 @@ install.packages("ggplot2")
 
 - [Buenas prácticas en bioinformática](https://github.com/EveliaCoss/Buenaspracticas_R_Mayo2024) - Evelia Coss
 
--  Creando informes con Rmarkdown - Anahi Aguilera
+-  [Creando informes con Rmarkdown](https://github.com/R-Ladies-Morelia/CursosRladiesMorelia_RladiesQueretaro_2024/tree/main/Hackaton2024/R_Markdown_1jun23) - Anahi Aguilera
 
 -  Crear tu CV en R - Aline Pingarroni
 
