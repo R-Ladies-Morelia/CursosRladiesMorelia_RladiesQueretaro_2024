@@ -17,6 +17,8 @@
 - [fontawesome](https://github.com/rstudio/fontawesome)
 - [magrittr](https://cran.r-project.org/web/packages/magrittr/index.html)
 - [shiny](https://shiny.posit.co/)
+- blogdown: install.packages("blogdown")
+- blogdown::install_hugo()
 
 ### Instalación de paquetes
 
