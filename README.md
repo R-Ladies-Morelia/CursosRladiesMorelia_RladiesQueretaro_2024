@@ -61,7 +61,7 @@ Se emplearon los cursos impartidos por The Carpentries, empleando el tema [R par
 - Horario: 13 - 17 h (hora Ciudad de Mexico)
 - Responsable: R-Ladies Querétaro y R-Ladies Morelia
 - Temas:
-  - Funciones y programación defensiva - Driselda Sanchez Aguirre
+  - [Funciones y programación defensiva](https://swcarpentry.github.io/r-novice-gapminder-es/09-vectorization.html) - Driselda Sanchez Aguirre
   - [Introducción al paquete data.table](https://github.com/sofiazorrilla/Taller_data.table) - Sofia Zorrilla y Maria Jose Palma Martinez
   - [Manipulación de data frames con dplyr](https://swcarpentry.github.io/r-novice-gapminder-es/13-dplyr.html) y [Guardando datos](https://swcarpentry.github.io/r-novice-gapminder-es/11-writing-data.html) - Mayra Fragoso
 
