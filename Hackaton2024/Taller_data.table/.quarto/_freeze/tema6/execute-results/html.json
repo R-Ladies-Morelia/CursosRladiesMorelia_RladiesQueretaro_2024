@@ -1,0 +1,16 @@
+{
+  "hash": "49b9e0086b808e7e6ee02f87b639f0f6",
+  "result": {
+    "markdown": "---\ntitle: \"Cadenas de operaciones\"\n---\n\n\nUna función muy importante del paquete es la capacidad de encadenar operaciones en un mismo comando sin necesidad de guardar el resultado en algun objeto. \n\nEs una función similar al uso del pipe `%>%` o `|>` en tidyverse o rbase. En data table se pueden evaluar una serie de expresiones una después de la otra escribiendolas entre corchetes de esta manera:\n\n```\nDT[ ... ][ ... ][ ... ]\n```\no de forma vertical\n\n```\nDT[ ...\n   ][ ...\n     ][ ...\n       ]\n```\n\nPor ejemplo, utilizando la tabla de registros de plantas de México podemos:\n\n1. Seleccionar los registros del género Quercus y filtrar aquellos que no tienen información acerca de la especie o del año de colecta\n\n```{.r}\n\nlibrary(data.table)\n\ndata = fread(\"data/plantae_mexico_conCoords_specimen.csv\")\n\ndata[genus == \"Quercus\" & !is.na(species) & species != \"\" & !is.na(year)]\n\n```\n\n3. Agrupar por especie y por año de colecta \n\n4. Contar el número de registros de que se realizó para cada especie en cada año \n\n```{.r}\n\ndata[genus == \"Quercus\" & !is.na(species) & species != \"\" & !is.na(year), .(.N), by = .(year,species)]\n\n```\n\n5. Ordenar la columna de número de registros de mayor a menor\n\n```{.r}\n\ndata[genus == \"Quercus\" & !is.na(species) & species != \"\" & !is.na(year), .(N = .N), by = .(year,species)][order(year,-N)]\n\n```\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n       year                   species     N\n      <int>                    <char> <int>\n   1:  1827 Quercus toxicodendrifolia     5\n   2:  1827           Quercus repanda     1\n   3:  1827         Quercus caudicans     1\n   4:  1828          Quercus cortesii     1\n   5:  1829        Quercus lancifolia     1\n  ---                                      \n6041:  2023     Quercus hypoleucoides     1\n6042:  2023      Quercus oblongifolia     1\n6043:  2023           Quercus toumeyi     1\n6044:  2023           Quercus viminea     1\n6045:  2023         Quercus arizonica     1\n```\n:::\n:::\n",
+    "supporting": [
+      "tema6_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
