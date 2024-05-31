@@ -17,8 +17,8 @@
 - [fontawesome](https://github.com/rstudio/fontawesome)
 - [magrittr](https://cran.r-project.org/web/packages/magrittr/index.html)
 - [shiny](https://shiny.posit.co/)
-- blogdown: install.packages("blogdown")
-- blogdown::install_hugo()
+- [blogdown](https://bookdown.org/yihui/blogdown/)
+- [hugo](https://hugo-apero-docs.netlify.app/)
 
 ### Instalación de paquetes
 
@@ -33,6 +33,8 @@ install.packages("rmarkdown")
 install.packages("shiny")
 install.packages("data.table")
 install.packages("magrittr")
+blogdown: install.packages("blogdown")
+blogdown::install_hugo()
 ```
 
 ## Dia 1: Viernes 31 de mayo 💚 
