@@ -45,7 +45,7 @@ remotes::install_github("rstudio/pagedown")
 
 ### Contenido 📌
 
-- Funciones y programación defensiva - Driselda Sanchez Aguirre
+- [Vectorizacion](https://swcarpentry.github.io/r-novice-gapminder-es/09-vectorization.html), [Funciones](https://swcarpentry.github.io/r-novice-gapminder-es/10-functions.html) y programación defensiva - Driselda Sanchez Aguirre
 
 - [Introducción al paquete data.table](https://sofiazorrilla.github.io/Taller_data.table/) - Sofia Zorrilla y Maria Jose Palma Martinez
 
