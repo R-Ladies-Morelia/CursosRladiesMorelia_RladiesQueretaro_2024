@@ -1,6 +1,8 @@
 # data.table
 README del Repositorio de taller de data.table para Rladies 31 mayo 2024
 
+[Página del taller](https://sofiazorrilla.github.io/Taller_data.table/)
+
 ## Temas del taller
 
 1. Introducción
