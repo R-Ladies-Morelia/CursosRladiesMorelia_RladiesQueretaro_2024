@@ -61,4 +61,4 @@ blogdown::install_hugo()
 
 -  Crear tu CV en R - Aline Pingarroni
 
--  Crea tu pagina web en R - Haydee Peruyero
+-  [Crea tu pagina web en R](https://r-ladies-morelia.github.io/project/webpage/) - Haydee Peruyero
