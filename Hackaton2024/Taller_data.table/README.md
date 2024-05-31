@@ -1,5 +1,5 @@
 # data.table
-Repositorio de taller de data.table para Rladies 31 mayo 2024
+README del Repositorio de taller de data.table para Rladies 31 mayo 2024
 
 ## Temas del taller
 
