@@ -35,6 +35,8 @@ install.packages("data.table")
 install.packages("magrittr")
 blogdown: install.packages("blogdown")
 blogdown::install_hugo()
+devtools::install_github("nstrayer/datadrivencv")
+remotes::install_github("rstudio/pagedown")
 ```
 
 ## Dia 1: Viernes 31 de mayo 💚 
