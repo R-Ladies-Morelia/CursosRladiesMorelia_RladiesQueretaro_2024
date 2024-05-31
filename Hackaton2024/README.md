@@ -12,6 +12,10 @@
 - [usethis](https://usethis.r-lib.org/)
 - [ggplot2](https://ggplot2.tidyverse.org/)
 - [RMarkdown](https://github.com/rstudio/rmarkdown)
+- [pagedown](https://cran.r-project.org/web/packages/pagedown/index.html)
+- [datadrivencv](https://nickstrayer.me/datadrivencv/)
+- [fontawesome](https://github.com/rstudio/fontawesome)
+- [magrittr](https://cran.r-project.org/web/packages/magrittr/index.html)
 - [shiny](https://shiny.posit.co/)
 
 ### Instalación de paquetes
