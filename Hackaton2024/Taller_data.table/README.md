@@ -3,6 +3,16 @@ README del Repositorio de taller de data.table para Rladies 31 mayo 2024
 
 [Página del taller](https://sofiazorrilla.github.io/Taller_data.table/)
 
+## Código para descargar el script a tu directorio de trabajo
+
+```
+setwd(dir = "/directorio/preferido/") # Sustituye la ruta por el lugar en el que quieres que se descargue la carpeta del taller
+
+## Descargar script al directorio de trabajo.
+download.file(url = "https://raw.githubusercontent.com/R-Ladies-Morelia/CursosRladiesMorelia_RladiesQueretaro_2024/main/Hackaton2024/Taller_data.table/script_ejemplos_ejercicios.R", destfile = "script_ejemplos_ejercicios.R")
+
+```
+
 ## Temas del taller
 
 1. Introducción
