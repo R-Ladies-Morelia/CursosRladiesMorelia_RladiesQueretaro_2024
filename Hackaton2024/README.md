@@ -25,6 +25,8 @@ install.packages("usethis")
 install.packages("ggplot2")
 install.packages("rmarkdown")
 install.packages("shiny")
+install.packages("data.table")
+install.packages("magrittr")
 ```
 
 ## Dia 1: Viernes 31 de mayo 💚 
@@ -35,7 +37,7 @@ install.packages("shiny")
 
 - Funciones y programación defensiva - Driselda Sanchez Aguirre
 
-- Introducción al paquete data.table - Sofia Zorrilla y Maria Jose Palma Martinez
+- [Introducción al paquete data.table](https://sofiazorrilla.github.io/Taller_data.table/) - Sofia Zorrilla y Maria Jose Palma Martinez
 
 - [Manipulación de data frames con dplyr y Guardando datos](https://github.com/mayfra23/manejo_datos_dplyr) - Mayra Fragoso 
 
