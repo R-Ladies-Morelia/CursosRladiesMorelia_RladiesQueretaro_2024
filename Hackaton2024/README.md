@@ -59,7 +59,7 @@ remotes::install_github("rstudio/pagedown")
 
 - [Buenas prácticas en bioinformática](https://github.com/EveliaCoss/Buenaspracticas_R_Mayo2024) - Evelia Coss
 
--  [Creando informes con Rmarkdown](https://github.com/R-Ladies-Morelia/CursosRladiesMorelia_RladiesQueretaro_2024/tree/main/Hackaton2024/R_Markdown_1jun23) - Anahi Aguilera
+-  [Creando informes con Rmarkdown](https://github.com/R-Ladies-Morelia/CursosRladiesMorelia_RladiesQueretaro_2024/Hackaton2024/R_Markdown_1jun23/Rmardwon_Rladies.html) - Anahi Aguilera
 
 -  [Crear tu CV en R](https://github.com/AlinePingarroni/Tu_CV_en_R) - Aline Pingarroni
 
