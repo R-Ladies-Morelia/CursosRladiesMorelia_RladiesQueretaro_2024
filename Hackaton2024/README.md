@@ -61,6 +61,6 @@ remotes::install_github("rstudio/pagedown")
 
 -  [Creando informes con Rmarkdown](https://github.com/R-Ladies-Morelia/CursosRladiesMorelia_RladiesQueretaro_2024/tree/main/Hackaton2024/R_Markdown_1jun23) - Anahi Aguilera
 
--  Crear tu CV en R - Aline Pingarroni
+-  [Crear tu CV en R](https://github.com/AlinePingarroni/Tu_CV_en_R) - Aline Pingarroni
 
 -  [Crea tu pagina web en R](https://r-ladies-morelia.github.io/project/webpage/) - Haydee Peruyero
