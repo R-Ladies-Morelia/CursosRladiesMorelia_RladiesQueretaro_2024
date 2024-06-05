@@ -42,6 +42,7 @@ remotes::install_github("rstudio/pagedown")
 ## Dia 1: Viernes 31 de mayo 💚 
 
 - Horario: 1 - 5 pm (hora Ciudad de Mexico)
+- [Grabacion](https://drive.google.com/file/d/1ADVanbUy9WXYbWGt4y3Vv2y_i-oUSb0I/view?usp=sharing)
 
 ### Contenido 📌
 
