@@ -55,6 +55,7 @@ remotes::install_github("rstudio/pagedown")
 ## Dia 2: Sábado 1 de junio 2024 💜
 
 - Horario: 9 - 13 h (hora Ciudad de Mexico)
+- [Grabacion](https://drive.google.com/file/d/1_W-kTt-WvPuWx_9st2hg_Ncd4GOxzTKu/view?usp=sharing)
 
 ### Contenido 📌
 
